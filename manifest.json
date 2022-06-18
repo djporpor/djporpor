@@ -8,7 +8,7 @@
     "icons": {
         "64": "icon64.png"
     },
-    "permissions": [
+    "host_permissions": [
         "https://colonist.io/*",
         "https://hexs.io/*"
     ],
